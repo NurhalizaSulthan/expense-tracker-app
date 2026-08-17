@@ -6,9 +6,6 @@ digunakan untuk mencatat pemasukan dan pengeluaran secara mudah.
 Project ini dibuat sebagai **Proyek Akhir** pada pembelajaran
 **Front-End Web Pemula** di Dicoding.
 
-## 🚀 Demo
-
-🔗 **Live Demo:** Tambahkan URL Vercel kamu di sini.
 
 ## ✨ Fitur
 
